@@ -1,0 +1,38 @@
+_repo: Abolition-Fanaticism-in-New-YorkMeeting-in-New-York-Held-May-11-1847_34915
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34915-h/images/cover-l.jpg
+creator:
+  author:
+    agent_name: Douglass, Frederick
+    aliases:
+    - Baly, Frederick Augustus Washington
+    - Bailey, Frederick Augustus Washington
+    birthdate: 1818
+    deathdate: 1895
+    gutenberg_agent_id: '34510'
+    url: http://www.gutenberg.org/2009/agents/34510
+    wikipedia: http://en.wikipedia.org/wiki/Frederick_Douglass
+description: ''
+gutenberg_bookshelf: African American Writers
+gutenberg_issued: '2011-01-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34915'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E300'
+- !lcsh 'Slaves -- United States -- Social conditions'
+- !lcsh 'Fugitive slaves -- United States'
+- !lcsh 'Slavery -- United States'
+- !lcsh 'Antislavery movements -- United States'
+title: 'Abolition Fanaticism in New York
+
+  Speech of a Runaway Slave from Baltimore, at an Abolition
+
+  Meeting in New York, Held May 11, 1847'
+url: http://www.gutenberg.org/ebooks/34915
